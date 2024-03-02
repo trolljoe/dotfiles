@@ -3,7 +3,7 @@ these are my personal dotfiles that i use for waybar, wofi, wlogout, kitty and h
 
 # usage
 
-just copy my config files to yours, im too lazy to make a install script
+git clone into this repository, and just copy all the config files
 
 # screenshot
 
