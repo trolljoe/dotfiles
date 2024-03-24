@@ -5,6 +5,20 @@ these are my personal dotfiles that i use for waybar, wofi, wlogout, kitty and h
 
 git clone into this repository, and just copy all the config files
 
+# dependecies
+
+hyprland (duh)
+
+waybar
+
+wlogout
+
+wofi
+
+swaylock (i don't use it at all but if you want to, lol)
+
+if i forget to add something just ping me on discord if you came across these dotfiles you probably know me already anyways
+
 # screenshot
 
 ![alt text](https://github.com/trolljoe/dotfiles/blob/main/desktop.png?raw=true)
