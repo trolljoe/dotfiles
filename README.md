@@ -21,6 +21,6 @@ if i forget to add something just ping me on discord if you came across these do
 
 # screenshot
 
-![alt text](https://github.com/trolljoe/dotfiles/blob/main/desktop.png?raw=true)
+![alt text](https://github.com/trolljoe/dotfiles/blob/main/swappy-20240324_010515.png?raw=true)
 
-![alt text](https://github.com/trolljoe/dotfiles/blob/main/swappy-20240302_013634.png?raw=true)
+![alt text](https://github.com/trolljoe/dotfiles/blob/main/swappy-20240324_010621.png?raw=true)
