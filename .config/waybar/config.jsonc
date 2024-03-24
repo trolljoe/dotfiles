@@ -6,8 +6,10 @@
     // "width": 1280, // Waybar width
     "spacing": 4, // Gaps between modules (4px)
     // Choose the order of the modules
+    // Add "hyprland" to anything you wanna use, since I don't use those
+    // you need fontawesome btw
     "modules-left": [
-        "sway/workspaces",
+        "hyprland/workspaces",
         "sway/mode",
         "sway/scratchpad",
         "custom/media",
@@ -20,16 +22,9 @@
         "temperature",
         "backlight",
         "keyboard-state",
-        "hyprland/language",
         "clock",
         "tray"
     ],
-    // Modules configuration
-     "sway/workspaces": {
-         "disable-scroll": true,
-         "all-outputs": true,
-         "warp-on-scroll": false,
- },
     "keyboard-state": {
         "numlock": true,
         "capslock": true,
@@ -67,10 +62,13 @@
     },
     "cpu": {
         "format": "{usage}% ",
-        "tooltip": false
+        "tooltip": false,
+        "on-click": "kitty htop",
     },
+
     "memory": {
-        "format": "{}% "
+        "format": "{}% ",
+        "on-click": "kitty htop",
     },
     "temperature": {
         // "thermal-zone": 2,
@@ -136,4 +134,4 @@
         "interval": "once",
         "on-click": "wlogout -c 5 -r 5 -p layer-shell",
 }
-},
+},%                    
