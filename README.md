@@ -17,7 +17,13 @@ wofi
 
 swaylock (i don't use it at all but if you want to, lol)
 
-if i forget to add something just ping me on discord if you came across these dotfiles you probably know me already anyways
+swwww
+
+oh-my-zsh (with agnoster theme)
+
+kitty
+
+## if i forget to add something just ping me on discord if you came across these dotfiles you probably know me already anyways
 
 # screenshot
 
