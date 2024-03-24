@@ -1,4 +1,4 @@
-{
+* {
 	border: none;
 	border-radius: 0;
 	font-family: FontAwesome;
@@ -47,7 +47,7 @@ window#waybar.PCSX2 #window {
 
 #workspaces button {
 	transition: none;
-	color: #f8f8f2;
+	color: #ffffff;
 	background: transparent;
 	font-size: 16px;
 }
@@ -72,7 +72,7 @@ window#waybar.PCSX2 #window {
     margin-bottom: 0;
     border-radius: 10px;
     transition: none;
-    color: #ffffff;
+    color: #4afc94;
     background: #282a36;
 }
 
@@ -84,7 +84,7 @@ window#waybar.PCSX2 #window {
 	margin-bottom: 0;
 	border-radius: 10px;
 	transition: none;
-	color: #ffffff;
+	color: #f76e6e;
 	background: #282a36;
 }
 
@@ -96,7 +96,7 @@ window#waybar.PCSX2 #window {
 	margin-bottom: 0;
 	border-radius: 10px;
 	transition: none;
-	color: #ffffff;
+	color: #32ccf3;
 	background: #282a36;
 }
 
@@ -108,7 +108,7 @@ window#waybar.PCSX2 #window {
 	margin-bottom: 0;
 	border-radius: 10px;
 	transition: none;
-	color: #ffffff;
+	color: #d9ff52;
 	background: #282a36;
 }
 
@@ -121,7 +121,7 @@ window#waybar.PCSX2 #window {
 	margin-bottom: 0;
 	border-radius: 10px;
 	transition: none;
-	color: #ffffff;
+	color: #de63fd;
 	background: #282a36;
 }
 
@@ -134,4 +134,4 @@ window#waybar.PCSX2 #window {
 	transition: width 1s;
 	color: #ffffff;
 	background: #282a36;
-}               
+}
