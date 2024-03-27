@@ -34,3 +34,5 @@ fontawesome
 ![alt text](https://joetroll.neocities.org/image_hosting/swappy-20240327_020054.png)
 
 ![alt text](https://joetroll.neocities.org/image_hosting/swappy-20240327_020227.png)
+
+https://github.com/trolljoe/dotfiles/raw/main/2024-03-27%2002-24-43.mp4 (video)
