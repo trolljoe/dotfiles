@@ -73,7 +73,7 @@ window#waybar.PCSX2 #window {
 	border: 2px solid white;
     border-radius: 10px;
     transition: none;
-    color: #4afc94;
+    color: #FFFFFF;
     background: #282a36;
 }
 
@@ -86,7 +86,7 @@ window#waybar.PCSX2 #window {
 	margin-bottom: 0;
 	border-radius: 10px;
 	transition: none;
-	color: #f76e6e;
+	color: #FFFFFF;
 	background: #282a36;
 }
 
@@ -99,7 +99,7 @@ window#waybar.PCSX2 #window {
 	border-radius: 10px;
 	border: 2px solid rgb(255, 255, 255);
 	transition: none;
-	color: #32ccf3;
+	color: #FFFFFF;
 	background: #282a36;
 }
 
@@ -113,7 +113,7 @@ window#waybar.PCSX2 #window {
 	border: 2px solid white;
 	border-radius: 10px;
 	transition: none;
-	color: #d9ff52;
+	color: #FFFFFF;
 	background: #282a36;
 }
 
@@ -127,7 +127,7 @@ window#waybar.PCSX2 #window {
 	border-radius: 10px;
 	transition: none;
 	border: 2px solid white;
-	color: #de63fd;
+	color: #FFFFFF;
 	background: #282a36;
 }
 
