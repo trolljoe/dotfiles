@@ -9,19 +9,13 @@
     "modules-left": [
         "custom/logout",
         "hyprland/workspaces",
-        "sway/mode",
-        "sway/scratchpad",
-        "custom/media",
     ],
     "modules-center": [
         "clock"
     ],
     "modules-right": [
-        "pulseaudio",
         "cpu",
         "memory",
-        "backlight",
-        "keyboard-state",
     ],
     "keyboard-state": {
         "numlock": true,
