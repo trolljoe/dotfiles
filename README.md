@@ -27,6 +27,6 @@ kitty
 
 # screenshot
 
-![alt text](https://github.com/trolljoe/dotfiles/blob/main/swappy-20240324_010515.png?raw=true)
+![alt text](https://joetroll.neocities.org/image_hosting/swappy-20240327_020054.png)
 
-![alt text](https://github.com/trolljoe/dotfiles/blob/main/swappy-20240324_010621.png?raw=true)
+![alt text](https://joetroll.neocities.org/image_hosting/swappy-20240327_020227.png)
