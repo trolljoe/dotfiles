@@ -6,24 +6,22 @@
     // "width": 1280, // Waybar width
     "spacing": 4, // Gaps between modules (4px)
     // Choose the order of the modules
-    // Add "hyprland" to anything you wanna use, since I don't use those
-    // you need fontawesome btw
     "modules-left": [
+        "custom/logout",
         "hyprland/workspaces",
         "sway/mode",
         "sway/scratchpad",
         "custom/media",
-        "custom/logout",
+    ],
+    "modules-center": [
+        "clock"
     ],
     "modules-right": [
         "pulseaudio",
         "cpu",
         "memory",
-        "temperature",
         "backlight",
         "keyboard-state",
-        "clock",
-        "tray"
     ],
     "keyboard-state": {
         "numlock": true,
@@ -37,12 +35,15 @@
     "sway/mode": {
         "format": "<span style=\"italic\">{}</span>"
     },
-    "sway/scratchpad": {
-        "format": "{icon} {count}",
-        "show-empty": false,
-        "format-icons": ["", ""],
-        "tooltip": true,
-        "tooltip-format": "{app}: {title}"
+    "hyprland/workspaces": {
+        "format": "{name}",
+        "format": "{icon}",
+        "tooltip": false,
+        "all-outputs": true,
+        "format-icons": {
+            "active": "󰺕",
+            "default": "",
+        }
     },
     "idle_inhibitor": {
         "format": "{icon}",
@@ -130,8 +131,8 @@
         "on-click": "pavucontrol"
     },
     "custom/logout": {
-        "format": "",
+        "format": "󰣇",
         "interval": "once",
         "on-click": "wlogout -c 5 -r 5 -p layer-shell",
 }
-},                    
+},
