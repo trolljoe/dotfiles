@@ -23,6 +23,10 @@ oh-my-zsh (with agnoster theme)
 
 kitty
 
+nerdfonts
+
+fontawesome
+
 ## if i forget to add something just ping me on discord if you came across these dotfiles you probably know me already anyways
 
 # screenshot
